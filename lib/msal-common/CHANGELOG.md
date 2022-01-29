@@ -1,8 +1,16 @@
 # Change Log - @azure/msal-common
 
-This log was last generated on Tue, 04 Jan 2022 00:20:29 GMT and should not be manually modified.
+This log was last generated on Sat, 29 Jan 2022 00:48:33 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 6.1.0
+
+Sat, 29 Jan 2022 00:48:33 GMT
+
+### Minor changes
+
+- Add support for logout_hint #4450 (hemoral@microsoft.com)
 
 ## 6.0.0
 
